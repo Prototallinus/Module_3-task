@@ -44,10 +44,10 @@ LICENSE: [MIT](./license.md)
 - [git merge][2.3]
 - [git stash][2.4]
 
-[2.1]: ./Contents/3_Branching_Merging/2.1_branch.md
-[2.2]: ./Contents/3_Branching_Merging/2.2_checkout.md
-[2.3]: ./Contents/3_Branching_Merging/2.3_merge.md
-[2.4]: ./Contents/3_Branching_Merging/2.4_stash.md
+[2.1]: ./Contents/2_Branching_Merging/2.1_branch.md
+[2.2]: ./Contents/2_Branching_Merging/2.2_checkout.md
+[2.3]: ./Contents/2_Branching_Merging/2.3_merge.md
+[2.4]: ./Contents/2_Branching_Merging/2.4_stash.md
 
 ### Share your work and Update it
 
@@ -55,8 +55,8 @@ LICENSE: [MIT](./license.md)
 - [git pull][3.2]
 - [git push][3.3]
 
-[3.1]: ./Contents/4_Share_Update/3.1_fetch.md
-[3.2]: ./Contents/4_Share_Update/3.2_pull.md
-[3.3]: ./Contents/4_Share_Update/3.3_push.md
+[3.1]: ./Contents/3_Share_Update/3.1_fetch.md
+[3.2]: ./Contents/3_Share_Update/3.2_pull.md
+[3.3]: ./Contents/3_Share_Update/3.3_push.md
 
 ---
